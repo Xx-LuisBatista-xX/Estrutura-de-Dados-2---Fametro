@@ -1,7 +1,7 @@
 #include<stdio.h>
 //função para dobrar o valor
 void dobrar(int *a){
-    *a *= *a;
+    *a *= 2;
 }
 int main(){
     int a;
